@@ -22,7 +22,7 @@ Dev will do things in transparent manner to nurture organic community
 Not Financial Advice / Not Affiliated with any person, organisation living or dead... Yalla!
 ---
 
-## ✨ Features
+## ✨ Features of Eliza that Shaikh uses Habibi
 
 -   🛠️ Full-featured Discord, Twitter, and Telegram connectors.
 -   🔗 Support for multiple models (Llama, Grok, OpenAI, Anthropic, etc.).
@@ -34,7 +34,7 @@ Not Financial Advice / Not Affiliated with any person, organisation living or de
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Lambo Start
 
 ### Prerequisites
 
